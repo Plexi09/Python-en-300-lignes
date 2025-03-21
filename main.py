@@ -1,14 +1,15 @@
 #################################################################################
-#               PYTHON EN 339 LIGNES | FAIT AVEC ❤ PAR PLEXI09                 #
+#               PYTHON EN 340 LIGNES | FAIT AVEC ❤ PAR PLEXI09                 #
 #################################################################################
 
 # INTRODUCTION
 
-# Bienvenue dans "Python en 339 lignes" !
-# Ce tutoriel vous permettra de découvrir les bases de la programmation en Python en exactement 339 lignes de code.
+# Bienvenue dans "Python en 340 lignes" !
+# Ce tutoriel vous permettra de découvrir les bases de la programmation en Python en exactement 340 lignes de code.
 # Il couvre les concepts fondamentaux tels que les variables, les fonctions, les conditions, les boucles, les classes et les exceptions.
 # Chaque section est accompagnée d'exemples pratiques et d'exercices pour tester vos connaissances.
 # Je vous encourage à lire attentivement chaque section, à exécuter le code et à résoudre les exercices proposés.
+# Si vous lisez ce guide sur le site github.com, les commentaires sont en gris et les exemples de code en couleur.
 
 # Python est un langage de programmation de haut niveau, c'est a dire proche du langage humain, créé par Guido van Rossum et publié en 1991. Il se distingue par :
 # - Sa simplicité et sa lisibilité
