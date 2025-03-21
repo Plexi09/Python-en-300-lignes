@@ -1,5 +1,5 @@
 #################################################################################
-#           PYTHON EN MOINS DE 300 LIGNES | FAIT AVEC ❤ PAR REDACTADO           #
+#           PYTHON EN MOINS DE 300 LIGNES | FAIT AVEC ❤ PAR PLEXI09            #
 #################################################################################
 
 # Ceci est un commentaire, il est ignoré par l'interpréteur. Vous pouvez l'utiliser pour écrire des notes pour vous-même ou pour d'autres.
